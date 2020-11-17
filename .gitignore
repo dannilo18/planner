@@ -1,0 +1,6 @@
+projetos/
+projetos_concluidos/
+tasks/
+tasks_concluidas/
+
+*.json
